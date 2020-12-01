@@ -2,8 +2,6 @@ package br.com.alura.forum.controller.form;
 
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 
-import net.bytebuddy.asm.Advice.This;
-
 public class LoginForm {
 
 	private String email;
